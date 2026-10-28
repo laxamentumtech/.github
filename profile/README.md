@@ -1,20 +1,17 @@
-## Laxamentum Technologies
+# Laxamentum Technologies
 
-We build metadata infrastructure for audiobooks.
+Better audiobook data for listeners and the people building tools for them.
 
-The company started the way our products do: the data we needed didn't exist, and what did exist didn't work the way it should — bugs and rough edges nobody else fixed. So we built it properly. Nothing is ever truly perfect, but software should work the way you expect it to. That bar is why these products exist.
+## AudiobookDB
 
-### [AudiobookDB](https://audiobookdb.org)
+[**AudiobookDB**](https://audiobookdb.org) is a community-maintained audiobook catalog, currently in public beta. Explore books and their releases alongside the narrators, series, and publishers behind them. Community submissions are reviewed by editors.
 
-A community-maintained metadata database for audiobooks: a proper separation of books and releases, moderated community contributions, fast search, and a well-documented API. The structured, reliable source of audiobook data the ecosystem has been missing.
+- [Browse the catalog](https://audiobookdb.org/books)
+- [Contribute to AudiobookDB](https://audiobookdb.org/users/signup?returnTo=%2Fadd)
+- [Build with the API](https://audiobookdb.org/docs)
 
-Built with Go, SvelteKit, PostgreSQL, and Typesense.
+## Open source
 
-### Open source
+[**audnexus**](https://github.com/laxamentumtech/audnexus) is our open-source API for bringing audiobook metadata from multiple sources together. AudiobookDB is its long-awaited successor.
 
-- **[audnexus](https://github.com/laxamentumtech/audnexus)** — the audiobook data aggregation API that started it all: harmonizes metadata from multiple sources into one consistent stream. (200+ stars)
-
-### Elsewhere
-
-- Company: [laxamentum.tech](https://laxamentum.tech)
-- Product: [audiobookdb.org](https://audiobookdb.org)
+[Company website](https://laxamentum.tech)
