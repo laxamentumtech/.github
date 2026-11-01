@@ -4,11 +4,11 @@ Audiobook data for listeners and the people building tools for them.
 
 ## AudiobookDB
 
-[**AudiobookDB**](https://audiobookdb.org) is a community-maintained audiobook catalog, currently in public beta. Explore books and their releases alongside the narrators, series, and publishers behind them. People with an account can propose books and releases for editorial review.
+[**AudiobookDB**](https://audiobookdb.org) is a community-maintained audiobook catalog in public beta. Explore audiobooks and the narrators, series, and publishers behind them. People with an account can propose catalog additions for editorial review.
 
 - [Browse the catalog](https://audiobookdb.org/books)
 - [Contribute to AudiobookDB](https://audiobookdb.org/users/signup?returnTo=%2Fadd)
-- [Build with the API](https://audiobookdb.org/docs)
+- [API documentation](https://audiobookdb.org/docs)
 
 ## Open source
 
